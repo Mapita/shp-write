@@ -1,3 +1,7 @@
+# Merged under Mapita because we want to merge this PR https://github.com/mapbox/shp-write/pull/129
+
+#############
+
 # shp-write
 
 # ANNOUNCEMENT! 
